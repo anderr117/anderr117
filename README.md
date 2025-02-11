@@ -4,6 +4,8 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
+<img src= "https://media2.giphy.com/media/Lm5hxmmI6ucOQGfjKj/giphy.gif?cid=6c09b952o9xti0m387z597k2xqipch3qmqjydym98oef87ve&rid=giphy.gif&ct=s" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+
 <h1 align="center">Hi , I'm Royer Tzep <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
